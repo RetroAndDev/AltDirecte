@@ -3,6 +3,10 @@
 AltDirecte est un client desktop (Windows/macOS) pour École Directe.
 Il vous permet de consulter vos notes, vos devoirs et bien plus directement dans une application Windows 10/11 et macOS
 
+<p align="center">
+  <img width="677" height="400" src="./alt-directe-dev.png">
+</p>
+
 ## Sortie de l'app
 AltDirecte sera disponible en version 1.0.0 a la rentrée de 2023 sous Windows. Celle-ci comportera les fonctionnalités de base.
 
