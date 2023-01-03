@@ -11,17 +11,16 @@ Il vous permet de consulter vos notes, vos devoirs et bien plus directement dans
 Chaque établissement met en place des "modules" pour permettre d'accéder votre emploi du temps/cahier de texte/badge de cantine et autres. Si votre établissement a désactivé le cahier de texte par exemple, il se peut que AltDirecte plante ou donne une erreur 403. Pensez à vérifier si le module auquel vous tentez d'accéder est bien disponible sur le site d'EcoleDirecte. AltDirecte supportera l'affichage des modules plus tard. De plus si vous rencontrez une erreur avec votre compte et établissement, c'est surement, car je ne peux pas tester tous les cas possibles (je n'ai pas d'autres comptes que celui de mon établissement). Aussi, quand je n'aurai plus mon compte, AltDirecte sera en pause. Si vous êtes développeur, et que vous possédez un compte EcoleDirecte, forkez le projet et maintenez-le ! Je pourrai implémenter dans AltDirecte vos meilleures modifications
 
 ## Sortie de l'app
-AltDirecte sera disponible en version 1.0.0 a la rentrée de 2023 sous Windows. Celle-ci comportera les fonctionnalités de base.
+AltDirecte Windows : Sortie en version 1.0.0 Vendredi 13 Janvier 2023. L'application comporteras L'accueil/Cahier De Texte/Emplois du Temps/Notes/Messagerie et les manuels scolaire
 
-Pour macOS, l'application sera disponible en bêta vers la fin du mois de janvier/début février.
+Pour macOS, l'application sera disponible en bêta vers le milieu du mois de février.
 
 ## Technologie utilisée
 ### Windows
 J'ai utilisé pour la version v1.x.x le WinForm (je vais devoir changer, car cette techno n'est plus supportée, c'est pour cela que la v2 sera refaite à partir de zéro)
 
 ### macOS
-Pour l'appli macOS, celle-ci sera faite avec le SDK de macOS avec Swift. Ce sera ma première application macOS alors désolée s'il y aura des bugs
-
+Pour l'appli macOS, celle-ci sera faite avec le SDK de macOS et Swift. Ce sera ma première application macOS en Swift, un language que je ne connais pas beaucoup. Cela risque de prendre du temps de porter AltDirecte sous macOS
 ## Sugestion d'idée
 Si vous avez des idées d'ajout pour AltDirecte faites-moi en part dans la section issues. Je les lirais toutes pour ajouter des fonctionnalités utiles
 
