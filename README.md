@@ -15,6 +15,13 @@ AltDirecte Windows : Sortie en version 1.0.0 Vendredi 13 Janvier 2023. L'applica
 
 Pour macOS, l'application sera disponible en bêta vers le milieu du mois de février.
 
+# Version pour macOS en developpement !
+
+<p align="center">
+  <img width="600" height="400" src="./alt-directe-macOS-dev.gif">
+</p>
+
+
 ## Technologie utilisée
 ### Windows
 J'ai utilisé pour la version v1.x.x le WinForm (je vais devoir changer, car cette techno n'est plus supportée, c'est pour cela que la v2 sera refaite à partir de zéro)
