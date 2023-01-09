@@ -10,7 +10,8 @@ Il vous permet de consulter vos notes, vos devoirs et bien plus directement dans
 ## Information Importante
 Chaque établissement met en place des "modules" pour permettre d'accéder votre emploi du temps/cahier de texte/badge de cantine et autres. Si votre établissement a désactivé le cahier de texte par exemple, il se peut que AltDirecte plante ou donne une erreur 403. Pensez à vérifier si le module auquel vous tentez d'accéder est bien disponible sur le site d'EcoleDirecte. AltDirecte supportera l'affichage des modules plus tard. De plus si vous rencontrez une erreur avec votre compte et établissement, c'est surement, car je ne peux pas tester tous les cas possibles (je n'ai pas d'autres comptes que celui de mon établissement). Aussi, quand je n'aurai plus mon compte, AltDirecte sera en pause. Si vous êtes développeur, et que vous possédez un compte EcoleDirecte, forkez le projet et maintenez-le ! Je pourrai implémenter dans AltDirecte vos meilleures modifications
 
-## Sortie de l'app
+## Sortie de l'ap
+Suite a la découverte de bugs et dans la messagerie, je dois décaler la sortie. Je ne sais pas quand je pourrais régler les bugs car je dois entièrement refaire un système de débugage.
 AltDirecte Windows : Sortie en version 1.0.0 Vendredi 13 Janvier 2023. L'application comporteras L'accueil/Cahier De Texte/Emplois du Temps/Notes/Messagerie et les manuels scolaire
 
 Pour macOS, l'application sera disponible en bêta vers le milieu du mois de février.
