@@ -20,11 +20,11 @@
  - [x] Connexion Automatique
  - [ ] Cache logiciel
  - [x]  Timeline et emploi du temps sur l'accueil
- - [ ] Notes
+ - [x] Notes
  - [ ] Messagerie (Boites et envois)
  - [ ] Manuels Scolaires
  - [ ] Cahier de texte
  - [ ] Réglages
- - [ ]  Emploi du temps
+ - [x] Emploi du temps
  - [ ] Vie Scolaire
 
