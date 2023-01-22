@@ -13,9 +13,7 @@ Pour suivre le developpement : [Voir le developpement](https://github.com/ArtOS-
 Chaque établissement met en place des "modules" pour permettre d'accéder votre emploi du temps/cahier de texte/badge de cantine et autres. Si votre établissement a désactivé le cahier de texte par exemple, il se peut que AltDirecte plante ou donne une erreur 403. Pensez à vérifier si le module auquel vous tentez d'accéder est bien disponible sur le site d'EcoleDirecte. AltDirecte supportera l'affichage des modules plus tard. De plus si vous rencontrez une erreur avec votre compte et établissement, c'est surement, car je ne peux pas tester tous les cas possibles (je n'ai pas d'autres comptes que celui de mon établissement). Aussi, quand je n'aurai plus mon compte, AltDirecte sera en pause. Si vous êtes développeur, et que vous possédez un compte EcoleDirecte, forkez le projet et maintenez-le ! Je pourrai implémenter dans AltDirecte vos meilleures modifications
 
 ## Sortie de l'app
-AltDirecte Windows : Sortie en version 1.0.0 Lundi 23 Janvier 2023. L'application comporteras L'accueil/Cahier De Texte/Emplois du Temps/Notes/Messagerie et les manuels scolaire
-
-Pour macOS, l'application sera disponible en bêta vers le milieu du mois de février.
+J'ai finalement décidé de sortir les deux applications en même temps (Windows + macOS) après les vacances de février
 
 # Version pour macOS en developpement !
 
