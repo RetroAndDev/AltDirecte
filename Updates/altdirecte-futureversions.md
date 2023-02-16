@@ -10,8 +10,9 @@
  - [ ] Manuels Scolaires
  - [x] Cahier de texte
  - [ ] Réglages
- - [x]  Emploi du temps
+ - [x] Emploi du temps
  - [ ] Vie Scolaire
+ - [ ] Téléchargement des documents (Onglet Documents et Fichier joint par mail ou sur le cachier de texte)
 
 
 ## AltDirecte macOS v1.0.0 Relase
@@ -23,8 +24,8 @@
  - [x] Notes
  - [ ] Messagerie (Boites et envois)
  - [ ] Manuels Scolaires
- - [ ] Cahier de texte
+ - [x] Cahier de texte
  - [ ] Réglages
  - [x] Emploi du temps
  - [ ] Vie Scolaire
-
+ - [x] Téléchargement des documents (Onglet Documents et Fichier joint par mail ou sur le cachier de texte)
