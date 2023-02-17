@@ -18,7 +18,7 @@ Chaque établissement met en place des "modules" pour permettre d'accéder votre
 </p>
 <p align="center">
   <a>L'application pour macOS Sortira le 27 février 2023 à 8:15. Pour consulter la liste des fonctionnalités qui seront disponibles, rendez-vous</a>
-<a href="url">ici</a>
+<a href="https://github.com/ArtOS-Developper/AltDirecte/blob/main/Updates/History/macOS/altdirecte-macOS-beta1.0.0.md">ici</a>
 </p>
 <p align="center">
   <a>Pour ce qui est de la version Windows, je n'arrive pas à corriger les problèmes de performances de l'app. Je vais donc la refaire avec une techno plus récente. J'ajouterai des infos d'ici à la mi-mars</a>
