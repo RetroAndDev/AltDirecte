@@ -2,15 +2,16 @@
 
 ## Quoi de neuf ?
  - [x] Connexion Automatique
- - [x]  Timeline et emploi du temps sur l'accueil
+ - [x] Timeline et emploi du temps sur l'accueil
  - [x] Notes
  - [x] Messagerie (Boites et envois)
  - [x] Manuels Scolaires
  - [x] Cahier de texte
  - [x] Réglages
- - [x] Emploi du temps
+ - [ ] Emploi du temps - À voir si j'obtiens un résultat satisfaisant en terme d'interface et de code
  - [x] Vie Scolaire
  - [x] Téléchargement des documents (Onglet Documents et Fichier joint par mail ou sur le cahier  de texte)
+ - [x] Espaces de travail (Version limitée : uniquement l'accueil/cloud/membres pour le moment)
 
 ## Trucs à savoir
 ### Les différents types de comptes
