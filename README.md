@@ -26,7 +26,8 @@ Chaque établissement met en place des "modules" pour permettre d'accéder votre
 
 ## Technologie utilisée
 ### Windows
-J'ai utilisé pour la version v1.x.x le WinForm (je vais devoir changer, car cette techno n'est plus supportée, c'est pour cela que la v2 sera refaite à partir de zéro)
+Afin de me faciliter le portage de AtlDirecte sous Windows, des versions de debug seront fournies à partir de la mi-mars. La version Windows sera entièrement faite sous Eletron.
+Il est possible que les applications soient fusionnées pour donner une seule est unique version
 
 ### macOS
 Pour l'appli macOS, celle-ci sera faite avec le SDK de macOS et Swift. Ce sera ma première application macOS en Swift, un langage que je ne connais pas beaucoup. Cela risque de prendre du temps de porter AltDirecte sous macOS
