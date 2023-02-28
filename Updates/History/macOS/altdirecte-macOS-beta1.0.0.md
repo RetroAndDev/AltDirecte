@@ -5,13 +5,13 @@
  - [x] Timeline et emploi du temps sur l'accueil
  - [x] Notes
  - [x] Messagerie (Boites et envois)
- - [x] Manuels Scolaires
+ - [ ] Manuels Scolaires - Impossible de faire fonctionner la redirection par l'API d'EcoleDirecte. Indisponible en v1
  - [x] Cahier de texte
  - [x] Réglages
  - [ ] Emploi du temps - À voir si j'obtiens un résultat satisfaisant en terme d'interface et de code
  - [x] Vie Scolaire
  - [x] Téléchargement des documents (Onglet Documents et Fichier joint par mail ou sur le cahier  de texte)
- - [x] Espaces de travail (Version limitée : uniquement l'accueil/cloud/membres pour le moment)
+ - [ ] Espaces de travail (Version limitée : uniquement l'accueil/cloud/membres pour le moment) - Impossible de télécharger les fichiers pour le moment
 
 ## Trucs à savoir
 ### Les différents types de comptes
