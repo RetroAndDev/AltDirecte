@@ -1,4 +1,4 @@
-# AltDirecte macOS v1.0.0 Beta
+# AltDirecte macOS v1.0.0
 
 ## Quoi de neuf ?
  - [x] Connexion Automatique
