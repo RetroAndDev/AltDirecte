@@ -6,7 +6,7 @@ Il vous permet de consulter vos notes, vos devoirs et bien plus directement dans
 Pour suivre le développement : [Voir le développement](https://github.com/ArtOS-Developper/AltDirecte/blob/main/Updates/altdirecte-futureversions.md) 
 
 <p align="center">
-  <img width="677" height="400" src="./alt-directe-dev.png">
+  <img width="570" height="400" src="./altdirecte-macos.png">
 </p>
 
 ## Information Importante
@@ -14,10 +14,7 @@ Chaque établissement met en place des "modules" pour permettre d'accéder votre
 
 ## Sortie de l'app
 <p align="center">
-  <img width="667" height="89" src="./alt-directe-macos-teaser.png">
-</p>
-<p align="center">
-  <a>L'application pour macOS Sortira le lundi 6 mars 2023 à 8h30. PS: J'ai quelques problèmes avec certains modules. Je publiais l'application macOS et Windows en version bêta le mardi 7 mars dans la fin d'après midi. Une liste des modules fonctionnels/parcellements fonctionnels/non implémentée sera disponible. Pour consulter la liste des fonctionnalités qui seront disponibles, rendez-vous</a>
+  <a>Pour consulter la liste des fonctionnalités qui seront disponibles, rendez-vous</a>
 <a href="https://github.com/ArtOS-Developper/AltDirecte/blob/main/Updates/History/macOS/altdirecte-macOS-beta1.0.0.md">ici</a>
 </p>
 <p align="center">
