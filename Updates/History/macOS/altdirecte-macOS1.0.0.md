@@ -5,13 +5,14 @@
  - [x] Timeline et emploi du temps sur l'accueil
  - [x] Notes
  - [x] Messagerie (Boites et envois)
- - [ ] Manuels Scolaires - Impossible de faire fonctionner la redirection par l'API d'EcoleDirecte. Indisponible en v1
  - [x] Cahier de texte
  - [x] Réglages
- - [ ] Emploi du temps - À voir si j'obtiens un résultat satisfaisant en terme d'interface et de code
  - [x] Vie Scolaire
  - [x] Téléchargement des documents (Onglet Documents et Fichier joint par mail ou sur le cahier  de texte)
  - [ ] Espaces de travail (Version limitée : uniquement l'accueil/cloud/membres pour le moment) - Impossible de télécharger les fichiers pour le moment
+
+## Bug(s) connus
+- J'ai remarqué que l'application macOS crash lors de l'appel pour afficher une notification sous macOS 11x sur un iMac 2017 sous CPU Intel - À voir si le problème est général ou non.
 
 ## Trucs à savoir
 ### Les différents types de comptes
