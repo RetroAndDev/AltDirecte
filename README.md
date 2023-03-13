@@ -27,7 +27,7 @@ Afin de me faciliter le portage de AtlDirecte sous Windows, des versions de debu
 Il est possible que les applications soient fusionnées pour donner une seule est unique version
 
 ### macOS
-Pour l'appli macOS, celle-ci sera faite avec le SDK de macOS et Swift. Ce sera ma première application macOS en Swift, un langage que je ne connais pas beaucoup. Cela risque de prendre du temps de porter AltDirecte sous macOS
+Pour l'appli macOS, celle-ci sera faite avec le SDK de macOS et Swift. Ce sera ma première application macOS en Swift, un langage que je ne connais pas beaucoup.
 ## Sugestion d'idée
 Si vous avez des idées d'ajout pour AltDirecte faites-moi en part dans la section issues. Je les lirais toutes pour ajouter des fonctionnalités utiles
 
@@ -39,7 +39,7 @@ Si vous rencontrez des bugs avec l'application, rendez-vous dans les issues pour
 Le code source ne sera disponible qu'à partir de la version 2.x.x, car elle sera entièrement recodée en WinUI ou WFP pour améliorer de design et la fluidité
 
 ### Code source macOS
-Le code source macOS sera disponible dans une future branche #macOS-beta quand l'application sortira en version bêta pour macOS.
+Le code source macOS sera disponible d'ici à la fin mars dans une banche "sources" du repo.
 
 ## Build form sources
 ### Windows (v1.x.x)
@@ -52,6 +52,7 @@ Pour build l'application (en version 1.x.x) sous Windows, il vous faut :
 Pour build l'application (en version 1.x.x) sous macOS, il vous faut :
 - Le code (Avec le bouton "Code" > "Download as zip" / ou en fessant un clone avec un client Git)
 - Xcode 14.2 (version que j'utilise pour développer. Doit surement fonctionner avec Xcode 12.5 pour macOS Big Sur 11)
+- L'app supporte macOS 10.15x mais je ne ferrai aucun support pour ces versions
 
 ## Remerciments
 Merci à [MaitreRouge](https://github.com/MaitreRouge/) pour aide sur le repo [Ecoledirecte-Api-Docs](https://github.com/EduWireApps/ecoledirecte-api-docs) et la team [EduWireApps](https://github.com/EduWireApps) pour leur travail sur [yNotes](https://github.com/EduWireApps/ynotes) qui m'a permis de comprendre en partie comment fonctionne l'API d'EcoleDirecte.x
