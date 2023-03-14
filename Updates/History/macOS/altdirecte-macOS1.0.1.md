@@ -2,8 +2,6 @@
 Patchnote v1.0.1
 ## Quoi de neuf ?
  - Notifications de la messagerie ☑️
- - Envoi de mail depuis l'application
- - Ajout d'une fenêtre de bienvenue au 1er démarrage 
 
 ## Correction de bugs
 - Correction d'un problème lié aux notifications des notes. Il était possible que les notifications concernant une nouvelle note soient affichées plusieurs fois pour rien ☑️
