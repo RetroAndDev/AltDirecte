@@ -1,0 +1,9 @@
+{
+  "major" : 1,
+  "minor" : 0,
+  "patch" : 1,
+  "updateSize" : 10485760,
+  "updateChange" : "https://github.com/ArtOS-Developper/AltDirecte/blob/main/Updates/History/macOS/altdirecte-macOS1.0.1.md",
+  "updateAssetName" : "AltDirecte-macOS-universal.zip",
+  "updateTitle" : "Notifications Update"
+}
