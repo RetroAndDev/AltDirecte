@@ -1,31 +1,11 @@
-# AltDirecte - Futures versions
-## AltDirecte Windows v1.0.0 Relase
-
-### Quoi de neuf ?
- - [x] Connexion Automatique
- - [ ] Cache logiciel
- - [x]  Timeline et emploi du temps sur l'accueil
- - [x] Notes
- - [ ] Messagerie (Boites et envois)
- - [ ] Manuels Scolaires
- - [x] Cahier de texte
- - [ ] Réglages
- - [x] Emploi du temps
- - [ ] Vie Scolaire
- - [ ] Téléchargement des documents (Onglet Documents et Fichier joint par mail ou sur le cachier de texte)
-
-
-## AltDirecte macOS v1.0.0 Relase
-
-### Quoi de neuf ?
- - [x] Connexion Automatique
- - [ ] Cache logiciel
- - [x]  Timeline et emploi du temps sur l'accueil
- - [x] Notes
- - [ ] Messagerie (Boites et envois)
- - [ ] Manuels Scolaires
- - [x] Cahier de texte
- - [ ] Réglages
- - [x] Emploi du temps
- - [ ] Vie Scolaire
- - [x] Téléchargement des documents (Onglet Documents et Fichier joint par mail ou sur le cachier de texte)
+# AltDirecte - Versions Futures
+## AltDirecte-macOS v2.0.0 Relase
+- [ ] Nouvelle Expérience d'interphase
+- [ ] Amélioration des performances
+- [ ] Correction des crashs lors de l'apparition d'une notification (macOS 11 Big Sur et antéireur)
+- [ ] Système de MaJ Automatique
+- [ ] Support de nouvelles fonctionnalités
+- - [ ] Support des comptes parents
+- - [ ] Support des manuels (je vais essayer du moins)
+- - [ ] Et pleins d'autres trucs (qui arriveront plus tard, à cause des vacances, je n'ai pas accès à tout)
+- [ ] Support de Windows (un jour peut-être ?)
