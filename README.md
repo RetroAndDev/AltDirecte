@@ -5,7 +5,7 @@ Il vous permet de consulter vos notes, vos devoirs et bien plus directement dans
 
 Sortie de la v2.0.0 au mois de septembre. 
 
-Pour suivre les nouvelles fonctionalitées : [Voir le développement](https://github.com/ArtOS-Developper/AltDirecte/blob/main/Updates/altdirecte-futureversions.md) 
+Pour suivre les nouvelles fonctionalitées : [Voir le développement](https://github.com/RetroAndDev/AltDirecte/projects?query=is%3Aopen) 
 
 <p align="center">
   <img width="570" height="400" src="./altdirecte-macos.png">
