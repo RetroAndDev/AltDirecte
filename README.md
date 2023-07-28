@@ -11,8 +11,17 @@ Pour suivre les nouvelles fonctionalitées : [Voir le développement](https://gi
   <img width="570" height="400" src="./altdirecte-macos.png">
 </p>
 
-## Information Importante
-Chaque établissement met en place des "modules" pour permettre d'accéder votre emploi du temps/cahier de texte/badge de cantine et autres. Si votre établissement a désactivé le cahier de texte par exemple, il se peut que AltDirecte plante ou donne une erreur 403. Pensez à vérifier si le module auquel vous tentez d'accéder est bien disponible sur le site d'EcoleDirecte. AltDirecte supportera l'affichage des modules plus tard. De plus si vous rencontrez une erreur avec votre compte et établissement, c'est surement, car je ne peux pas tester tous les cas possibles (je n'ai pas d'autres comptes que celui de mon établissement). Aussi, quand je n'aurai plus mon compte, AltDirecte sera en pause. Si vous êtes développeur, et que vous possédez un compte EcoleDirecte, forkez le projet et maintenez-le ! Je pourrai implémenter dans AltDirecte vos meilleures modifications
+## Modules disponibles
+Chaque établissement peux activer ou non différentes fonctionnalitées de EcoleDirecte, si votre établissement a désactivé la Vie Scolaire par exemple, le module ne sera pas listé dans AltDirecte. Au contraire si un des modules n'est pas disponible dans mon établissement (donc non supporté par AltDirecte) il ne sera pas affiché dans AltDirecte. Voici la liste des modules supporté pour le moment :
+ - [x] Timeline
+ - [x] Emploi du temps
+ - [ ] Notes
+ - [ ] Vie Scolaire
+ - [ ] Messagerie
+ - [ ] Cloud
+ - [ ] Espaces de travails
+ - [ ] Modules URL (Impala, ou ONISEP Services par exemple)
+ - [ ] Documents
 
 ## Sortie de l'app
 <p align="center">
