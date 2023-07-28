@@ -28,9 +28,6 @@ Chaque établissement peux activer ou non différentes fonctionnalitées de Ecol
   <a>Pour ce qui est de la version Windows, elle sortira peut-être en fin d'année 2023. Je ne sais pas encore vraiment</a>
 </p>
 
-## Technologie utilisée
-### macOS
-Pour l'appli macOS, celle-ci sera faite avec le SDK de macOS et Swift. Ce sera ma première application macOS en Swift, un langage que je ne connais pas beaucoup.
 ## Sugestion d'idée
 Si vous avez des idées d'ajout pour AltDirecte faites-moi en part dans la section issues. Je les lirais toutes pour ajouter des fonctionnalités utiles
 
