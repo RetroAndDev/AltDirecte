@@ -1,11 +1,11 @@
 {
-  "major" : 2,           //Major Version X.0.0 (-1 will not be detected as an update)
-  "minor" : 0,            //Minor Version 0.X.0
-  "patch" : 0,            //Patch Version 0.0.X
-  "relase": 1,            //Update status : 0 for Relase, 1 for Beta
-  "beta": 2,              //Is relase is not a beta use -1, for a beta, it will be the beta number or build
-  "updateChange" : "about:blank",    //Link to full changes file
-  "downloadLink" : "",    //Direct download update file link
-  "updateTitle" : "Correction et améliorations générales",     //Update Name
-  "changes" : "Correction de bugs mineurs"          //Little changes for User
+  "major": 2,
+  "minor": 0,
+  "patch": 0,
+  "relase": 1,
+  "beta": 2,
+  "updateChange": "about:blank",
+  "downloadLink": "",
+  "updateTitle": "Correction et améliorations générales",
+  "changes": "Correction de bugs mineurs"
 }
