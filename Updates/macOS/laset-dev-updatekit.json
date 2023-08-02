@@ -5,7 +5,7 @@
   "relase": 1,
   "beta": 2,
   "updateChange": "about:blank",
-  "downloadLink": "",
+  "downloadLink": "https://raw.githubusercontent.com/RetroAndDev/AltDirecte/main/Updates/macOS/v1.0.3/AltDirecte-macOS-universal.zip",
   "updateTitle": "Correction et améliorations générales",
   "changes": "Correction de bugs mineurs"
 }
