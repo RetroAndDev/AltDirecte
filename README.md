@@ -15,7 +15,7 @@ Pour suivre les nouvelles fonctionalitées : [Voir le développement](https://gi
 Chaque établissement peux activer ou non différentes fonctionnalitées de EcoleDirecte, si votre établissement a désactivé la Vie Scolaire par exemple, le module ne sera pas listé dans AltDirecte. Au contraire si un des modules n'est pas disponible dans mon établissement (donc non supporté par AltDirecte) il ne sera pas affiché dans AltDirecte. Voici la liste des modules supporté pour le moment :
  - [x] Timeline
  - [x] Emploi du temps
- - [ ] Notes
+ - [x] Notes
  - [ ] Vie Scolaire
  - [ ] Messagerie
  - [ ] Cloud
