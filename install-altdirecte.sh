@@ -85,6 +85,7 @@ echo "Argument 1 : $1"
 echo "Argument 2 : $2"
 echo "Argument 3 : $3"
 
+sleep 5
 
 if [ "$arg1" == "" ]; then
     download_and_install
