@@ -3,7 +3,7 @@ Si un bug vous paraît lié à EcoleDirecte, vous pouvez utiliser la fonction d'
 
 Une fois l'export des données terminés. Compressez le dossier 'AltDirecteExportedData'.
 
-Contactez-moi par mail à l'adresse : arthur.godfroy@artomstudio.fr.
+Contactez-moi par mail à l'adresse : je fait plus de support pour cette version
 
 Décrivez-moi le problème et ajouter le fichier compressé de tout à l'heure en pièce jointe.
 
