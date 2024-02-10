@@ -3,6 +3,8 @@ AltDirecte est officiellement annulé. Je précise aussi que la version macOS (s
 Si le code vous intéresse, j'ai ajouté le code source macOS dans un zip nommé "AltDirecteLegacy.zip". Il s'agit du code source en Swift, il n'est pas très beau ni opti, car c'était ma première expérience en Swift (merci a tonton GPT pour l'aide...)
 Voilà !
 
+La nouvelle version (seule ou via StudySuite) et le code est disponible ici [AltDirecte - StudySuite](https://github.com/StudySuite/AltDirecte). Cette nouvelle version est celle intégrée à StudySuite, mais elle sera bientôt disponible seule.
+
 ## AltDirecte
 
 AltDirecte est un client desktop (macOS uniquement pour le moment) pour École Directe.
